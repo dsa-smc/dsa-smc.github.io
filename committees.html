@@ -1,0 +1,16 @@
+---
+layout: default
+title: committees
+---
+
+<h1>Projects</h1>
+
+<ul>
+    {% assign sorted-posts = site.posts | where: "categories","projects" %}
+    {% for post in sorted-posts limit: 5 %}
+        <li>
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <p>{{ post.excerpt }}</p>
+        </li>
+    {% endfor %}
+</ul>

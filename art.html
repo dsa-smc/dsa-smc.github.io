@@ -1,0 +1,16 @@
+---
+layout: default
+title: art
+---
+
+<h1>Works</h1>
+
+<ul>
+    {% assign sorted-posts = site.posts | where: "categories","arts" %}
+    {% for post in sorted-posts limit: 5 %}
+        <li>
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <p>{{ post.excerpt }}</p>
+        </li>
+    {% endfor %}
+</ul>

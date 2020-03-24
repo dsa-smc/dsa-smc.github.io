@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Democratic Socialist of America, Santa Monica College
+title: DSA SMC
 author:
   name: Democratic Socialist Club of Santa Monica College
   email: smcydsa@gmail.com
@@ -71,8 +71,11 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+  - about.md
+  - committees.html
+  - blog.html
+  - art.html
 
 # Build settings
 theme: minima
