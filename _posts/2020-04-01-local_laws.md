@@ -1,8 +1,10 @@
 ---
 layout: post
-title: The Laws Used to Criminalize Houselessness and What They Mean
+title: The Laws Used to Criminalize Houselessness
 categories: laws
 ---
+
+# (and What They Mean)
 
 The following is a list of Los Angeles laws involving property and public space.
 They are the codes most frequently used to criminalize and disrupt the lives of 
@@ -15,7 +17,7 @@ for Responsible and Equitable Public Spending vs. The City of Los Angeles demand
 for jury trial document if you need insight into the inhumane and unconstitutional
 enforcement of LAMC. 
 
-# LAMC 41.18 Sitting, Lying, Sleeping on Sidewalk
+## LAMC 41.18 Sitting, Lying, Sleeping on Sidewalk
 
 
 This law is vulnerable due to new court rulings, but it hasn’t been repealed in 
@@ -26,7 +28,7 @@ an overpass, and along any street or highway with cars. The third part prevents
 harassment on the subway, and the final part **prevents sitting, lying, or sleeping
 on any street, sidewalk, or public way**. 
 
-# LAMC 63.44(I)(9) Tent on the Beach
+## LAMC 63.44(I)(9) Tent on the Beach
 
 This law **prevents camping on beaches** unless it’s a designated campground. It also
 **makes it illegal to build a tent on the beach**, which means any shelter that has 
@@ -35,21 +37,21 @@ like umbrellas or sun shades, must be freestanding and removed before the beach
 closes. “Camping” here means staying on the beach for an extended time, with your
 belongings, and sleeping, storing items, making fires, or eating meals there.
 
-# LAMC 41.45 Possession of a Shopping Cart
+## LAMC 41.45 Possession of a Shopping Cart
 
 This law **blocks people from removing shopping carts from a place of business** 
 without the owner's consent, and using them for anything other than the owner’s 
 intended use. It also prevents any sort of tampering, like removing from the cart
 logos or text restating this law. These actions are fineable for up to $50.
 
-# B&P Code 25620 Open Container of Alcohol
+## B&P Code 25620 Open Container of Alcohol
 
 This is a state law that makes it **illegal to have open alcohol containers** (anything
 with a broken seal or part of the liquid gone) in almost all government-owned public
 spaces, such as parks. It doesn’t apply when the containers are collected for the
 purpose of recycling. 
 
-# LAMC 41.27(c) Drinking in Public
+## LAMC 41.27(c) Drinking in Public
 
 **Banned drinking locations in Los Angeles County** include streets, sidewalks, 
 parks, playgrounds, the Los Angeles Memorial Coliseum, and any railroad depot or
@@ -58,20 +60,20 @@ license. According to another part of the law, you’re also not allowed to drin
 in any of the immediate area surrounding a place with a liquor license: only directly
 on the premises.
 
-# LAMC 63.44(B)(24) Smoking in a Park/Bench
+## LAMC 63.44(B)(24) Smoking in a Park/Bench
 
 This law makes it **illegal to smoke on any property managed by the Los Angeles Parks
 and Recreation Department**. These spaces include (but aren’t limited to) public 
 parks, roadside rest areas, playgrounds, zoos, oceans, and beaches. 
 
-# LAMC 41.47.2 Urinating in Public
+## LAMC 41.47.2 Urinating in Public
 
 This law **outlaws defecating or urinating on any public property, as well as any 
 location where the public would be able to see**. The only places to legally use 
 the bathroom are toilets or urinals in restrooms, or temporary bathrooms like 
 porta-potties that are designed to be sanitary. 
 
-# LAMC 56.11(3-6) Storage of personal property
+## LAMC 56.11(3-6) Storage of personal property
 
 Currently, this code is the topic of the lawsuit “Ktown for All and the Assn. for
 Responsible and Equitable Public Spending vs. The City of Los Angeles”. It calls
@@ -142,7 +144,7 @@ property.
 	such as giving the date, time, and location the property was removed from and 
 	describing the property in a detailed way.
 
-# LAMC 56.11(7,8) Ban on daytime tents
+## LAMC 56.11(7,8) Ban on daytime tents
 
 These two sections have to do with when you can have a tent up, and how you can 
 secure it. **Tents aren’t allowed to be up between 6:00 a.m. and 9:00 p.m.** on public
@@ -156,20 +158,20 @@ property**, like with rope or string, or to private property in a way that block
 the street. The city is allowed to remove anything used to attach the property 
 with no notice. 
 
-# Cal. Veh. Code 21954 Pedestrian in Roadway
+## Cal. Veh. Code 21954 Pedestrian in Roadway
 
 This law **requires pedestrians in the roadway to move for cars**, unless the pedestrian
 is in a crosswalk. It also adds that the warning to pedestrians doesn’t prevent 
 drivers from being held accountable for driving unsafely. 
 
-# Cal. Veh. Code 21456 Pedestrian in Crosswalk
+## Cal. Veh. Code 21456 Pedestrian in Crosswalk
 
 This is an explanation of **proper use of crosswalks**: you may cross when it says 
 “walk”, has a walking person image displayed, or has a countdown displayed with 
 enough time to complete the crossing before “0”. Don’t begin crossing if only a 
 flashing “Don’t walk” or red hand image are displayed. 
 
-# Cal. Penal Code 374.4 Littering
+## Cal. Penal Code 374.4 Littering
 
 This law outlines a **three-strike fine rule for any littering**, and the possibility
 of a minimum 8 hours of community service. Littering is dropping any small quantity 
