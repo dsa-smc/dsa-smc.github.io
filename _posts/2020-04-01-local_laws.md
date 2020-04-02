@@ -1,10 +1,8 @@
 ---
 layout: post
-title: The Laws Used to Criminalize Houselessness
+title: The Laws Used to Criminalize Houselessness and What They Mean
 categories: laws
 ---
-
-# (and What They Mean)
 
 The following is a list of Los Angeles laws involving property and public space.
 They are the codes most frequently used to criminalize and disrupt the lives of 
