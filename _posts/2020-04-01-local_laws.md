@@ -3,7 +3,7 @@ layout: post
 title: The Laws Used to Criminalize Houselessness (and What They Mean)
 author:
 	name: dottiealex
-categories: housing-homelessness
+categories: laws
 ---
 
 The following is a list of Los Angeles laws involving property and public space.
