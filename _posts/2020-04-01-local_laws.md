@@ -1,8 +1,6 @@
 ---
 layout: post
 title: The Laws Used to Criminalize Houselessness (and What They Mean)
-author:
-	name: dottiealex
 categories: laws
 ---
 
